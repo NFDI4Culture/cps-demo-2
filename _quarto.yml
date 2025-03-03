@@ -5,8 +5,8 @@ project:
 # Quarto options for books
 # https://quarto.org/docs/reference/projects/books.html
 book:
-  title: "Demo V2 Layouts"
-  author: "ASKCR"
+  title: "Der Große Saal"
+  author: "CPS"
   date: today
   favicon: ./images/cps-logo.svg
   # this section determines which files will be added to the book as chapters
@@ -31,7 +31,7 @@ book:
 
 
   cover-image: images/fmd10024322a.jpg
-  repo-url: https://github.com/calnfynn/section-demo-layouts
+  repo-url: https://github.com/NFDI4Culture/cps-demo-2
   repo-actions: [issue]
   downloads: [pdf,docx]
   #downloads: [pdf]

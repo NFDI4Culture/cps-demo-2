@@ -1,7 +1,56 @@
-# Katalog zur Ausstellung: Der Große Saal (Rittersaal)
 
-Ein Katalog mit Kunstwerken aus der CbDD-Sammlung. Textteil: [6e73f774-4b7f-4e37-937b-e11cc35c5bc8](https://www.deckenmalerei.eu/42d06165-58e7-4653-bfe4-3d5f7091fc33#6e73f774-4b7f-4e37-937b-e11cc35c5bc8)
+---
+title: "Ein Raumführer"
+---
 
-Großer Saal (Rittersaal) [Raum]<br/>
+## Der Große Saal (Rittersaal)
+
+### Strukturdaten
+
+Name: Großer Saal (Rittersaal)
+
+ID: [15685f4a-3727-4110-8967-1d8287431997](https://www.deckenmalerei.eu/15685f4a-3727-4110-8967-1d8287431997)
+
+Typ: Raum 
+
+Länge (m): 36.4 
+
+Breite (m): 11.7 
+
+Höhe (m): 8.25 
+
+Funktion [Raum]: Saal -> Hauptsaal 
+
+Datierung [Raum]: 1601-1605 
+
+hat Auftraggeber:  Wolfgang II., Hohenlohe-Weikersheim, Graf [Person] 
+
+hat Auftraggeber: Carl Ludwig, Hohenlohe-Weikersheim, Graf [Person] 
+
+hat Teil: Malerei des Barock [Malerei] 
+
+hat Teil: Malerei der Renaissance [Malerei] 
+
+hat Stuckateur: Schmidt, Gerhard [Person] 
+
+hat Stuckateur: Limmerich, Christoph [Person] 
+
+hat Bildhauer: Juncker, Michael [Person] 
+
+ist dokumentiert in: Der Große Saal (Rittersaal) [Textteil] 
+
+ist Teil von: Erschließungsraumfolgen [Raumfolge] 
+
+Erstellung des Datensatzes: 2020-05-19, 11:18 
+
+letzte Bearbeitung: 2023-10-16, 14:28 
+
+## Weikersheim, Schloss
+
+Den Rittersaal von Schloss Weikersheim überspannt seit 1602 eine Decke mit 69 hierarchisch geordneten Jagdszenen des Würzburger Malers Balthasar Katzenberger. Nach 1708 kamen von Christian Thalwitzer im Saal und in mehreren Appartements bemalte Lambris mit jeweils eigenständigen Zyklen hinzu.
+
+### Zitierempfehlung:
+
+Seeger, Ulrike: Weikersheim, Residenzschloss, in: Corpus der barocken Deckenmalerei in Deutschland, hg. von Stephan Hoppe, Hubert Locher und Matteo Burioni, München 2020, URL: [www.deckenmalerei.eu/42d06165-58e7-4653-bfe4-3d5f7091fc33](https://www.deckenmalerei.eu/42d06165-58e7-4653-bfe4-3d5f7091fc33), letzter Zugriff: 2025-03-03
 
 <a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png" /></a> This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivs 4.0 International License</a>.
