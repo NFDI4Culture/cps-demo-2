@@ -11,9 +11,9 @@ logo:
   medium: "./images/cps-logo-2.png"
 
 typography:
-  # fonts:
-  #   - family: Asgard
-  #     source: file
+  fonts:
+    - family: Sigmar
+      source: google
   #     files: 
   #       - path: fonts/Asgard/Asgard-Regular-trial.woff2
   #       - path: fonts/Asgard/Asgard-Regular-Italic-trial.woff2
@@ -23,8 +23,8 @@ typography:
   #         weight: bold
   #       - path: fonts/Asgard/Asgard-Regular-Bold-trial.woff2
   #         weight: bold
-  #   - family: Boring
-  #     source: file
+    - family: Lato
+      source: google
   #     files: 
   #       - path: https://www.dafont.com/boring-sans-a.charmap
   #       - path: ./fonts/Boring-Sans/Boring-Sans-A-Italic-trial.ttf
@@ -36,5 +36,5 @@ typography:
   #         weight: bold
   #   - family: Original Surfer
   #     source: google
-  base: Boring
-  headings: Asgard
+  base: Lato
+  headings: Sigmar

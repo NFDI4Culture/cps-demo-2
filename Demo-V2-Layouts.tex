@@ -104,6 +104,7 @@
 \usepackage{parskip}
 \usepackage{contour}
 \usepackage{imakeidx}
+\usepackage{ragged2e} % text alignment
 
 
 
@@ -111,6 +112,16 @@
 \onehalfspacing % line spacing
 \setlength{\parskip}{1.5em}
 \setlength\parindent{0pt}
+
+
+\setmainfont{Lato}[
+    Path=./fonts/Lato/,
+    Extension = .ttf,
+    UprightFont=*-Regular,
+    BoldFont=*-Bold,
+    ItalicFont=*-Italic,
+    BoldItalicFont=*-BoldItalic
+]
 \makeatletter
 \@ifpackageloaded{bookmark}{}{\usepackage{bookmark}}
 \makeatother
@@ -270,6 +281,8 @@
 
 \tableofcontents
 {\let\newpage\relax}
+
+\RaggedRight
 
 \mainmatter
 \bookmarksetup{startatroot}

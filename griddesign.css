@@ -1,3 +1,4 @@
+
 .fullimage {
   display:flex;
   object-fit: contain;
@@ -132,4 +133,8 @@ a > .btn-light {
   font-size: small;
   padding: 11px 10px !important;
   color: black;
+}
+
+#quarto-content {
+  padding: 4%;
 }

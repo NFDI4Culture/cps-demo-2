@@ -27,7 +27,6 @@ book:
         #- conceptforPDF.ipynb
         - cataloguesection.ipynb
         - datavis.ipynb
-    
 
 
   cover-image: images/fmd10024322a.jpg
@@ -65,23 +64,24 @@ format:
   # https://quarto.org/docs/reference/formats/html.html
   html:
     number-sections: false
+    toc: false
     # Quarto allows a number of pre-packaged themes for the HTML version
     # You can choose between them using the documentation at 
     # https://quarto.org/docs/output-formats/html-themes.html
     theme: 
       - lux
       - brand
-      - font.scss
+    #  - font.scss
     css: griddesign.css
-    grid:
-      sidebar-width: 0px
-      margin-width: 0px
-      body-width: 2000px
+    # grid:
+    #   sidebar-width: 0px
+    #   margin-width: 0px
+    #   body-width: 2000px
     #image-lazy-loading: true
     #extract-media: ./images
     code-overflow: wrap
 #    embed-resources: true
-
+    page-layout: custom
   # options for PDF output 
   # https://quarto.org/docs/reference/formats/pdf.html
   pdf:
@@ -119,7 +119,7 @@ format:
 
 
 
-  #docx: 
-  #  toc: true
+  docx: 
+    toc: true
   #epub: 
   #  toc: true    
