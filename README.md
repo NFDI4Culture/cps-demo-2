@@ -14,7 +14,9 @@ Worthington, Simon, and Anna Rahr. “Publication prototype (CPS): ein raumführ
 
 ## Cite code (software citation)
 
+Worthington, Simon, and Anna Rahr. “Publication Prototype (CPS): Ein Raumführer Den Rittersaal Von Schloss Weikersheim”. Computational Publishing Service, March 6, 2025. https://doi.org/10.5281/zenodo.14982350.
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14982350.svg)](https://doi.org/10.5281/zenodo.14982350)
  
 # Prototyp der Veröffentlichung
 
@@ -69,6 +71,8 @@ Note: Codespaces are persistent and the last saved state will be present on resu
 To close or start Codespaces. Close Codespace from the far bottom left Codespace panel - you will be given options in the command menu top, for stopping. To start Codespace go to the repo button or visit to start and stop any Codespace you have: https://github.com/codespaces
 
 ## Software Citation
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14982350.svg)](https://doi.org/10.5281/zenodo.14982350)
 
 Add your name and ORCID in the CITATION.cff file to be attributed for your code contributions. Make a pull request after editing.
 
