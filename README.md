@@ -1,3 +1,47 @@
+# Prototype publication: Publication prototype (CPS): ein raumführer den rittersaal von schloss weikersheim
+
+Web: https://nfdi4culture.github.io/cps-demo-2/
+
+This publication is a prototype made by the Computational Publishing Service of the Open Science Lab at TIB as part of  NFDI4Culture research. The prototype is a proof-of-concept demonstration for the use of Jupyter Notebooks and Wikibase to automatically compile linked open data into a multi-format publication and deposit the publication in an academic repository.
+
+## Cite publication
+
+Worthington, Simon, and Anna Rahr. “Publication prototype (CPS): ein raumführer den rittersaal von schloss weikersheim”. Computational Publishing Service, March 6, 2025. https://doi.org/10.5281/zenodo.14974149.
+
+## Cite code (software citation)
+
+
+ 
+# Prototyp der Veröffentlichung
+
+Diese Veröffentlichung ist ein Prototyp des Computational Publishing Service des Open Science Lab der TIB. Der Prototyp ist eine Proof-of-Concept-Demonstration für die Verwendung von Jupyter Notebooks und Wikibase, um verknüpfte offene Daten automatisch zu einer Multiformat-Publikation zusammenzustellen und in einem akademischen Repositorium zu hinterlegen.
+
+## Prototype: Publishing from GLAM collections
+
+Simon Worthington, [simon.worthington@tib.eu](mailto:simon.worthington@tib.eu), NFDI4Culture. Open Science Lab, TIB. 03.2025
+
+Demo and code v2: [https://github.com/NFDI4Culture/CPS-Demo](https://github.com/NFDI4Culture/CPS-Demo)
+
+Demo and code v1: [https://github.com/NFDI4Culture/CPS-Demo](https://github.com/NFDI4Culture/cps-demo-2)
+
+## The service
+
+Computational Publishing Service (CPS) uses Jupyter Notebooks to publish from cultural digital collections using Linked Open Data, and Wikidata and Wikibase. The service is designed to sit on top of existing NFDI4Culture Linked Open Data infrastructure.
+
+Use cases: Digital Humanities scholars, cultural digital collections, and humanities publishing.
+
+Value proposition: Provide a channel to audiences for cultural digital collections, enable reusable machine readable record of content used in publications, allow humanities publishers to integrate and support computational publications.
+
+## The prototype
+
+The goal is to demonstrate automated multi-format publishing – web, PDF, ePub Docx, and  interactive Jupyter Notebooks – of content from digital cultural collections stored as Linked Open Data (LOD) on Wikidata and Wikibase, and from other APIs and LOD sources.
+
+The Jupyter Notebooks will be used in a virtual online environment 'Github Codespace' so that there are __zero-install__ overheads as a barrier for users.
+
+The publications will be authored using Jupyter Notebooks used via the Google Colab platform, from GitHub storage, and rendered to multi-format using the Jupyter Notebook wrapper platform Quarto. The publication will be published to GitHub.
+
+The content of the demo will be a fictional exhibition catalogue of a collection of paintings from the Corpus of Baroque Ceiling Painting in Germany (CbDD).
+
 # Computational Publishing Service Demo
 
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/)
@@ -20,41 +64,7 @@ Note: Codespaces are persistent and the last saved state will be present on resu
 
 To close or start Codespaces. Close Codespace from the far bottom left Codespace panel - you will be given options in the command menu top, for stopping. To start Codespace go to the repo button or visit to start and stop any Codespace you have: https://github.com/codespaces
 
----
-
-[Project issues](https://github.com/orgs/NFDI4Culture/projects/1/views/4) | [Wiki - Work plan](https://github.com/NFDI4Culture/CPS-Demo/wiki/Work-plan-and-existing-R&D)
-
-## Prototype: Exhibition catalogue publication
-
-Simon Worthington, [simon.worthington@tib.eu](mailto:simon.worthington@tib.eu), NFDI4Culture. Open Science Lab, TIB. 03.2024
-
-Demo and code: [https://github.com/NFDI4Culture/CPS-Demo](https://github.com/NFDI4Culture/CPS-Demo)
-
-## The service
-
-Computational Publishing Service (CPS) uses Jupyter Notebooks to publish from cultural digital collections using Linked Open Data, and Wikidata and Wikibase. The service is designed to sit on top of existing NFDI4Culture Linked Open Data infrastructure.
-
-Use cases: Digital Humanities scholars, cultural digital collections, and humanities publishing.
-
-Value proposition: Provide a channel to audiences for cultural digital collections, enable reusable machine readable record of content used in publications, allow humanities publishers to integrate and support computational publications.
-
-## The prototype
-
-The goal is to demonstrate automated multi-format publishing – web, PDF, ePub Docx, and  interactive Jupyter Notebooks – of content from digital cultural collections stored as Linked Open Data (LOD) on Wikidata and Wikibase, and from other APIs and LOD sources.
-
-The Jupyter Notebooks will be used in a virtual online environment 'Github Codespace' so that there are __zero-install__ overheads as a barrier for users.
-
-The publications will be authored using Jupyter Notebooks used via the Google Colab platform, from GitHub storage, and rendered to multi-format using the Jupyter Notebook wrapper platform Quarto. The publication will be published to GitHub.
-
-The content of the demo will be a fictional exhibition catalogue of a collection of paintings from the Corpus of Baroque Ceiling Painting in Germany (CbDD).
-
-![Workflow](images/cps-workflow.svg)
-
-[Link to drawing](https://docs.google.com/drawings/d/1YOS5C4GYxoWCXuSEN1039IjGtbEpYJRa1vXCraEugts/edit?usp=sharing) on Google Drive (commenting view) 
-
 ## Software Citation
-
-Worthington, S., & Bowie, S. (2024). Computational Publishing Service Demo (Version 0.0.1a) [Computer software]. https://github.com/NFDI4Culture/CPS-Demo
 
 Add your name and ORCID in the CITATION.cff file to be attributed for your code contributions. Make a pull request after editing.
 
