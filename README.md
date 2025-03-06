@@ -12,13 +12,13 @@ This publication is a prototype made by the Computational Publishing Service of 
 
 Worthington, Simon, and Anna Rahr. “Publication Prototype (CPS): Ein Raumführer – der große Saal (Rittersaal), Schloss Weikersheim”. Computational Publishing Service, March 6, 2025. https://doi.org/10.5281/zenodo.14974148. 
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14974149.svg)](https://doi.org/10.5281/zenodo.14974148)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14974148.svg)](https://doi.org/10.5281/zenodo.14974148)
 
 ## Cite code (software citation)
 
 Worthington, Simon, and Anna Rahr. “Publication Prototype (CPS): Ein Raumführer – der große Saal (Rittersaal), Schloss Weikersheim”. Computational Publishing Service, March 6, 2025. https://doi.org/10.5281/zenodo.14982349.
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14982350.svg)](https://doi.org/10.5281/zenodo.14982349)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14982349.svg)](https://doi.org/10.5281/zenodo.14982349)
  
 # Prototyp der Veröffentlichung
 
