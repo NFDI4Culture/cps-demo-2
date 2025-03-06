@@ -1,4 +1,4 @@
-# Prototype publication: Publication prototype (CPS): ein raumführer den rittersaal von schloss weikersheim
+# Publication prototype (CPS): ein raumführer den rittersaal von schloss weikersheim (v2.0)
 
 Web: https://nfdi4culture.github.io/cps-demo-2/
 
