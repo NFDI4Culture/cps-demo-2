@@ -25,7 +25,7 @@ book:
 
 
   cover-image: images/fmd10024322a.jpg
-  repo-url: https://github.com/calnfynn/section-demo-layouts
+  repo-url: https://github.com/NFDI4Culture/cps-demo-2
   repo-actions: issue
   downloads: [pdf,docx]
   navbar:
