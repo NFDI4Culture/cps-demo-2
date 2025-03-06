@@ -1,4 +1,6 @@
-# Publication prototype (CPS): ein raumführer den rittersaal von schloss weikersheim (v2.0)
+# Publication Prototype (CPS): Ein Raumführer – der große Saal (Rittersaal), Schloss Weikersheim
+
+v 2.0
 
 Web: https://nfdi4culture.github.io/cps-demo-2/ 
 
@@ -8,13 +10,13 @@ This publication is a prototype made by the Computational Publishing Service of 
 
 ## Cite publication
 
-Worthington, Simon, and Anna Rahr. “Publication prototype (CPS): ein raumführer den rittersaal von schloss weikersheim”. Computational Publishing Service, March 6, 2025. https://doi.org/10.5281/zenodo.14974149. 
+Worthington, Simon, and Anna Rahr. “Publication Prototype (CPS): Ein Raumführer – der große Saal (Rittersaal), Schloss Weikersheim”. Computational Publishing Service, March 6, 2025. https://doi.org/10.5281/zenodo.14974149. 
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14974149.svg)](https://doi.org/10.5281/zenodo.14974149)
 
 ## Cite code (software citation)
 
-Worthington, Simon, and Anna Rahr. “Publication Prototype (CPS): Ein Raumführer Den Rittersaal Von Schloss Weikersheim”. Computational Publishing Service, March 6, 2025. https://doi.org/10.5281/zenodo.14982350.
+Worthington, Simon, and Anna Rahr. “Publication Prototype (CPS): Ein Raumführer – der große Saal (Rittersaal), Schloss Weikersheim”. Computational Publishing Service, March 6, 2025. https://doi.org/10.5281/zenodo.14982350.
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14982350.svg)](https://doi.org/10.5281/zenodo.14982350)
  
