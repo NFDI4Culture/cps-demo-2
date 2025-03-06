@@ -52,6 +52,11 @@ Den Rittersaal von Schloss Weikersheim überspannt seit 1602 eine Decke mit 69 h
 
 Diese Veröffentlichung ist ein Prototyp des Computational Publishing Service des Open Science Lab der TIB. Der Prototyp ist eine Proof-of-Concept-Demonstration für die Verwendung von Jupyter Notebooks und Wikibase, um verknüpfte offene Daten automatisch zu einer Multiformat-Publikation zusammenzustellen und in einem akademischen Repositorium zu hinterlegen.
 
+### Zitierempfehlung
+
+Zitieren Sie die enthaltene Arbeit von [CbDD](https://www.deckenmalerei.eu/42d06165-58e7-4653-bfe4-3d5f7091fc33) wie folgt.
+
+Seeger, Ulrike: Weikersheim, Residenzschloss, in: Corpus der barocken Deckenmalerei in Deutschland, hg. von Stephan Hoppe, Hubert Locher und Matteo Burioni, München 2020, URL: [www.deckenmalerei.eu](https://www.deckenmalerei.eu/42d06165-58e7-4653-bfe4-3d5f7091fc33), letzter Zugriff: 2025-03-06
 
 ---
 

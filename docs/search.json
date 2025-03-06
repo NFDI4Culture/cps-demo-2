@@ -26,7 +26,7 @@
     "href": "index.html#weikersheim-schloss",
     "title": "Ein Raumführer",
     "section": "Weikersheim, Schloss",
-    "text": "Weikersheim, Schloss\nDen Rittersaal von Schloss Weikersheim überspannt seit 1602 eine Decke mit 69 hierarchisch geordneten Jagdszenen des Würzburger Malers Balthasar Katzenberger. Nach 1708 kamen von Christian Thalwitzer im Saal und in mehreren Appartements bemalte Lambris mit jeweils eigenständigen Zyklen hinzu.\n\nPrototyp der Veröffentlichung\nDiese Veröffentlichung ist ein Prototyp des Computational Publishing Service des Open Science Lab der TIB. Der Prototyp ist eine Proof-of-Concept-Demonstration für die Verwendung von Jupyter Notebooks und Wikibase, um verknüpfte offene Daten automatisch zu einer Multiformat-Publikation zusammenzustellen und in einem akademischen Repositorium zu hinterlegen.\n\n\nThis work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 4.0 International License.",
+    "text": "Weikersheim, Schloss\nDen Rittersaal von Schloss Weikersheim überspannt seit 1602 eine Decke mit 69 hierarchisch geordneten Jagdszenen des Würzburger Malers Balthasar Katzenberger. Nach 1708 kamen von Christian Thalwitzer im Saal und in mehreren Appartements bemalte Lambris mit jeweils eigenständigen Zyklen hinzu.\n\nPrototyp der Veröffentlichung\nDiese Veröffentlichung ist ein Prototyp des Computational Publishing Service des Open Science Lab der TIB. Der Prototyp ist eine Proof-of-Concept-Demonstration für die Verwendung von Jupyter Notebooks und Wikibase, um verknüpfte offene Daten automatisch zu einer Multiformat-Publikation zusammenzustellen und in einem akademischen Repositorium zu hinterlegen.\n\n\nZitierempfehlung\nZitieren Sie die enthaltene Arbeit von CbDD wie folgt.\nSeeger, Ulrike: Weikersheim, Residenzschloss, in: Corpus der barocken Deckenmalerei in Deutschland, hg. von Stephan Hoppe, Hubert Locher und Matteo Burioni, München 2020, URL: www.deckenmalerei.eu, letzter Zugriff: 2025-03-06\n\n\nThis work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 4.0 International License.",
     "crumbs": [
       "Texte",
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Ein Raumführer</span>"
@@ -103,7 +103,7 @@
     "href": "contributors.html",
     "title": "Kolophon",
     "section": "",
-    "text": "Name 1, University X, Orcid\nName 2, University Y, Orcid\nName 3, University Z, Orcid",
+    "text": "Prototyp-Beitragende\nSimon Worthington, ORCiD: 0000-0002-8579-9717. Affiliation: TIB – Leibniz Information Centre for Science and Technology and University Library (ROR ID: https://ror.org/04aj4c181).\nAnna Rahr. Affiliation: Hochschule Hannover (ROR ID: https://ror.org/03m2kj587).",
     "crumbs": [
       "Texte",
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>Kolophon</span>"
