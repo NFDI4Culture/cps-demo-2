@@ -26,9 +26,9 @@ Diese Veröffentlichung ist ein Prototyp des Computational Publishing Service de
 
 Simon Worthington, [simon.worthington@tib.eu](mailto:simon.worthington@tib.eu), NFDI4Culture. Open Science Lab, TIB. 03.2025
 
-Demo and code v2: [https://github.com/NFDI4Culture/CPS-Demo](https://github.com/NFDI4Culture/CPS-Demo)
+Demo and code v2: [https://github.com/NFDI4Culture/cps-demo-2](https://github.com/NFDI4Culture/cps-demo-2)
 
-Demo and code v1: [https://github.com/NFDI4Culture/cps-demo-2](https://github.com/NFDI4Culture/cps-demo-2)
+Demo and code v1: [https://github.com/NFDI4Culture/CPS-Demo](https://github.com/NFDI4Culture/CPS-Demo)
 
 ## The service
 
