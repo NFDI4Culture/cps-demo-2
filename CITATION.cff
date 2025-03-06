@@ -4,13 +4,13 @@ authors:
 - family-names: "Worthington"
   given-names: "Simon"
   orcid: "https://orcid.org/0000-0002-8579-9717"
-- family-names: "Bowie"
-  given-names: "Simon"
-  orcid: "https://orcid.org/0000-0002-2437-589X"
-title: "Computational Publishing Service Demo"
-version: 0.0.1a
+- family-names: "Rahr"
+  given-names: "Anna"
+  orcid: "https://orcid.org/0009-0008-4458-8228"
+title: "Publication prototype (CPS): ein raumführer den rittersaal von schloss weikersheim"
+version: 0.2.0
 identifiers:
   - type: doi
     value: 
-date-released: 2024-03-22
-url: "https://github.com/NFDI4Culture/CPS-Demo"
+date-released: 2025-03-06
+url: "https://github.com/NFDI4Culture/cps-demo-2"
