@@ -11,6 +11,6 @@ title: "Publication prototype (CPS): ein raumführer den rittersaal von schloss 
 version: 0.2.0
 identifiers:
   - type: doi
-    value: 
+    value: https://doi.org/10.5281/zenodo.14982350
 date-released: 2025-03-06
 url: "https://github.com/NFDI4Culture/cps-demo-2"
