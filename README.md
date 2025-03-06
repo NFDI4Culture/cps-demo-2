@@ -1,6 +1,8 @@
 # Publication prototype (CPS): ein raumführer den rittersaal von schloss weikersheim (v2.0)
 
-Web: https://nfdi4culture.github.io/cps-demo-2/ [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/)
+Web: https://nfdi4culture.github.io/cps-demo-2/ 
+
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/)
 
 This publication is a prototype made by the Computational Publishing Service of the Open Science Lab at TIB as part of  NFDI4Culture research. The prototype is a proof-of-concept demonstration for the use of Jupyter Notebooks and Wikibase to automatically compile linked open data into a multi-format publication and deposit the publication in an academic repository.
 
