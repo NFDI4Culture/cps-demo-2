@@ -74,8 +74,6 @@ To close or start Codespaces. Close Codespace from the far bottom left Codespace
 
 ## Software Citation
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14982350.svg)](https://doi.org/10.5281/zenodo.14982350)
-
 Add your name and ORCID in the CITATION.cff file to be attributed for your code contributions. Make a pull request after editing.
 
 Edit Citation File Format: [CITATION.cff](CITATION.cff)
