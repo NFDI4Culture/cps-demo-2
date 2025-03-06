@@ -11,6 +11,6 @@ title: "Publication Prototype (CPS): Ein Raumführer – der große Saal (Ritter
 version: 0.2.0
 identifiers:
   - type: doi
-    value: 10.5281/zenodo.14982350
+    value: 10.5281/zenodo.14982349
 date-released: 2025-03-06
 url: "https://github.com/NFDI4Culture/cps-demo-2"
