@@ -9,8 +9,7 @@ book:
   author: 
     - name: "Computational Publishing Service (CPS)"
       affiliations: 
-        - "Open Science Lab"
-        - "TIB"
+        - "Open Science Lab, TIB"
   doi: "10.5281/zenodo.14974149"
   date: today
   favicon: ./images/cps-logo.svg

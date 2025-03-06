@@ -4,15 +4,15 @@
     "href": "index.html",
     "title": "Ein Raumführer",
     "section": "",
-    "text": "Der Große Saal (Rittersaal)",
+    "text": "Der Große Saal (Rittersaal), Schloss Weikersheim",
     "crumbs": [
       "Texte",
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Ein Raumführer</span>"
     ]
   },
   {
-    "objectID": "index.html#der-große-saal-rittersaal",
-    "href": "index.html#der-große-saal-rittersaal",
+    "objectID": "index.html#der-große-saal-rittersaal-schloss-weikersheim",
+    "href": "index.html#der-große-saal-rittersaal-schloss-weikersheim",
     "title": "Ein Raumführer",
     "section": "",
     "text": "Strukturdaten\nName: Großer Saal (Rittersaal)\nID: https://www.deckenmalerei.eu\nTyp: Raum\nLänge (m): 36.4\nBreite (m): 11.7\nHöhe (m): 8.25\nFunktion [Raum]: Saal -&gt; Hauptsaal\nDatierung [Raum]: 1601-1605\nhat Auftraggeber: Wolfgang II., Hohenlohe-Weikersheim, Graf [Person]\nhat Auftraggeber: Carl Ludwig, Hohenlohe-Weikersheim, Graf [Person]\nhat Teil: Malerei des Barock [Malerei]\nhat Teil: Malerei der Renaissance [Malerei]\nhat Stuckateur: Schmidt, Gerhard [Person]\nhat Stuckateur: Limmerich, Christoph [Person]\nhat Bildhauer: Juncker, Michael [Person]\nist dokumentiert in: Der Große Saal (Rittersaal) [Textteil]\nist Teil von: Erschließungsraumfolgen [Raumfolge]\nErstellung des Datensatzes: 2020-05-19, 11:18\nletzte Bearbeitung: 2023-10-16, 14:28",
@@ -22,11 +22,11 @@
     ]
   },
   {
-    "objectID": "index.html#weikersheim-schloss",
-    "href": "index.html#weikersheim-schloss",
+    "objectID": "index.html#schloss-weikersheim",
+    "href": "index.html#schloss-weikersheim",
     "title": "Ein Raumführer",
-    "section": "Weikersheim, Schloss",
-    "text": "Weikersheim, Schloss\nDen Rittersaal von Schloss Weikersheim überspannt seit 1602 eine Decke mit 69 hierarchisch geordneten Jagdszenen des Würzburger Malers Balthasar Katzenberger. Nach 1708 kamen von Christian Thalwitzer im Saal und in mehreren Appartements bemalte Lambris mit jeweils eigenständigen Zyklen hinzu.\n\nPrototyp der Veröffentlichung\nDiese Veröffentlichung ist ein Prototyp des Computational Publishing Service des Open Science Lab der TIB. Der Prototyp ist eine Proof-of-Concept-Demonstration für die Verwendung von Jupyter Notebooks und Wikibase, um verknüpfte offene Daten automatisch zu einer Multiformat-Publikation zusammenzustellen und in einem akademischen Repositorium zu hinterlegen.\n\n\nZitierempfehlung\nZitieren Sie die enthaltene Arbeit von CbDD wie folgt.\nSeeger, Ulrike: Weikersheim, Residenzschloss, in: Corpus der barocken Deckenmalerei in Deutschland, hg. von Stephan Hoppe, Hubert Locher und Matteo Burioni, München 2020, URL: www.deckenmalerei.eu, letzter Zugriff: 2025-03-06\n\n\nThis work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 4.0 International License.",
+    "section": "Schloss Weikersheim",
+    "text": "Schloss Weikersheim\nDen Rittersaal von Schloss Weikersheim überspannt seit 1602 eine Decke mit 69 hierarchisch geordneten Jagdszenen des Würzburger Malers Balthasar Katzenberger. Nach 1708 kamen von Christian Thalwitzer im Saal und in mehreren Appartements bemalte Lambris mit jeweils eigenständigen Zyklen hinzu.\n\nPrototyp der Veröffentlichung\nDiese Veröffentlichung ist ein Prototyp des Computational Publishing Service des Open Science Lab der TIB. Der Prototyp ist eine Proof-of-Concept-Demonstration für die Verwendung von Jupyter Notebooks und Wikibase, um verknüpfte offene Daten automatisch zu einer Multiformat-Publikation zusammenzustellen und in einem akademischen Repositorium zu hinterlegen.\n\n\nZitierempfehlung\nZitieren Sie die enthaltene Arbeit von CbDD wie folgt.\nSeeger, Ulrike: Weikersheim, Residenzschloss, in: Corpus der barocken Deckenmalerei in Deutschland, hg. von Stephan Hoppe, Hubert Locher und Matteo Burioni, München 2020, URL: www.deckenmalerei.eu, letzter Zugriff: 2025-03-06\n\n\nThis work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 4.0 International License.",
     "crumbs": [
       "Texte",
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Ein Raumführer</span>"
@@ -103,7 +103,7 @@
     "href": "contributors.html",
     "title": "Kolophon",
     "section": "",
-    "text": "Prototyp-Beitragende\nSimon Worthington, ORCiD: 0000-0002-8579-9717. Affiliation: TIB – Leibniz Information Centre for Science and Technology and University Library (ROR ID: https://ror.org/04aj4c181).\nAnna Rahr. Affiliation: Hochschule Hannover (ROR ID: https://ror.org/03m2kj587).",
+    "text": "Prototyp-Beitragende\nSimon Worthington, ORCiD: 0000-0002-8579-9717. Affiliation: TIB – Leibniz Information Centre for Science and Technology and University Library (ROR ID: https://ror.org/04aj4c181).\nAnna Rahr, ORCiD: 0009-0008-4458-8228. Affiliation: Hochschule Hannover (ROR ID: https://ror.org/03m2kj587).",
     "crumbs": [
       "Texte",
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>Kolophon</span>"

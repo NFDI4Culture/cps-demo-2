@@ -2,7 +2,7 @@
 title: "Ein Raumführer"
 ---
 
-## Der Große Saal (Rittersaal)
+## Der Große Saal (Rittersaal), Schloss Weikersheim
 
 ### Strukturdaten
 
@@ -44,7 +44,7 @@ Erstellung des Datensatzes: 2020-05-19, 11:18
 
 letzte Bearbeitung: 2023-10-16, 14:28 
 
-## Weikersheim, Schloss
+## Schloss Weikersheim
 
 Den Rittersaal von Schloss Weikersheim überspannt seit 1602 eine Decke mit 69 hierarchisch geordneten Jagdszenen des Würzburger Malers Balthasar Katzenberger. Nach 1708 kamen von Christian Thalwitzer im Saal und in mehreren Appartements bemalte Lambris mit jeweils eigenständigen Zyklen hinzu.
 
